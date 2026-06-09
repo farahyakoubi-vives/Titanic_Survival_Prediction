@@ -37,10 +37,10 @@ all reflecting the social hierarchy aboard the Titanic. Passengers with higher
 social status had significantly better access to lifeboats and higher survival rates.
 
 ## Files
-- `Farah_Yakoubi.ipynb` — main notebook (blog style, full workflow)
-- `train.csv` — training data
-- `test.csv` — test data
-- `submission_final.csv` — final Kaggle submission
+- `Farah_Yakoubi.ipynb` : main notebook (blog style, full workflow)
+- `train.csv` : training data
+- `test.csv` : test data
+- `submission_final.csv` : final Kaggle submission
 
 ## Sources
 - Kaggle Titanic dataset: https://www.kaggle.com/competitions/titanic
