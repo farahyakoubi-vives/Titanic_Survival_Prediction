@@ -40,7 +40,7 @@ social status had significantly better access to lifeboats and higher survival r
 - `Farah_Yakoubi.ipynb` — main notebook (blog style, full workflow)
 - `train.csv` — training data
 - `test.csv` — test data
-- `submission.csv` — final Kaggle submission
+- `submission_final.csv` — final Kaggle submission
 
 ## Sources
 - Kaggle Titanic dataset: https://www.kaggle.com/competitions/titanic
