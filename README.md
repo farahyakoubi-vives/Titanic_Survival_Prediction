@@ -2,8 +2,7 @@
 
 ## About
 This project predicts whether a passenger survived the Titanic disaster, based on features like age, sex, ticket class and fare. 
-It is based on the [Kaggle Titanic Competition](https://www.kaggle.com/competitions/titanic/overview)
-One of the most well-known beginner machine learning datasets. 
+It is based on the [Kaggle Titanic Competition](https://www.kaggle.com/competitions/titanic/overview), one of the most well-know beginner machine learning datasets. 
 
 It was built as part of my studies in Applied Computer Science at Vives University of Applied Sciences. 
 
